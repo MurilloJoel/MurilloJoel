@@ -75,9 +75,6 @@
   <img src="https://metrics.lecoq.io/MurilloJoel?template=classic&base=repositories&base.indepth=true&repositories.batch=100&config.timezone=Europe%2FMadrid&theme=dark" alt="Top Contributions" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
-</p>
 
 
 <p align="center">
