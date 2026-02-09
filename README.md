@@ -63,9 +63,9 @@
     </td>
   </tr>
   <tr>
-    <p align="center">
+    <td align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurilloJoel&theme=github-dark&hide_border=true" />
-    </p>
+    </td>
   </tr>
 </table>
 
