@@ -1,0 +1,67 @@
+<svg width="600" height="250" viewBox="0 0 600 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6A4DFF"/>
+      <stop offset="1" stop-color="#FF4D7A"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&amp;display=swap');
+      .typing {
+        font-family: 'Fira Code', monospace;
+        font-size: 22px;
+        fill: white;
+        text-anchor: middle;
+        visibility: hidden;
+      }
+
+      /* Typing Animation Logic */
+      .line1 { animation: type1 15s infinite; }
+      .line2 { animation: type2 15s infinite; }
+      .line3 { animation: type3 15s infinite; }
+      .line4 { animation: type4 15s infinite; }
+      .line5 { animation: type5 15s infinite; }
+
+      @keyframes type1 { 
+        0% { visibility: visible; clip-path: inset(0 100% 0 0); }
+        15%, 19% { visibility: visible; clip-path: inset(0 0 0 0); }
+        20%, 100% { visibility: hidden; }
+      }
+      @keyframes type2 { 
+        0%, 20% { visibility: visible; clip-path: inset(0 100% 0 0); }
+        35%, 39% { visibility: visible; clip-path: inset(0 0 0 0); }
+        40%, 100% { visibility: hidden; }
+      }
+      @keyframes type3 { 
+        0%, 40% { visibility: visible; clip-path: inset(0 100% 0 0); }
+        55%, 59% { visibility: visible; clip-path: inset(0 0 0 0); }
+        60%, 100% { visibility: hidden; }
+      }
+      @keyframes type4 { 
+        0%, 60% { visibility: visible; clip-path: inset(0 100% 0 0); }
+        75%, 79% { visibility: visible; clip-path: inset(0 0 0 0); }
+        80%, 100% { visibility: hidden; }
+      }
+      @keyframes type5 { 
+        0%, 80% { visibility: visible; clip-path: inset(0 100% 0 0); }
+        95%, 99% { visibility: visible; clip-path: inset(0 0 0 0); }
+        100% { visibility: hidden; }
+      }
+    </style>
+  </defs>
+
+  <!-- Waving Background -->
+  <path d="M0 0H600V160C600 160 450 210 300 160C150 110 0 160 0 160V0Z" fill="url(#paint0_linear)">
+    <animate attributeName="d" 
+      values="M0 0H600V160C600 160 450 210 300 160C150 110 0 160 0 160V0Z;
+              M0 0H600V140C600 140 450 190 300 140C150 90 0 140 0 140V0Z;
+              M0 0H600V160C600 160 450 210 300 160C150 110 0 160 0 160V0Z"
+      dur="8s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Typing Phrases -->
+  <text x="50%" y="85" class="typing line1">Hi there!!, I'm Joel Murillo</text>
+  <text x="50%" y="85" class="typing line2">Multi-platform Developer</text>
+  <text x="50%" y="85" class="typing line3">Full-Stack Specialist</text>
+  <text x="50%" y="85" class="typing line4">Building Scalable Solutions</text>
+  <text x="50%" y="85" class="typing line5">Always Learning...</text>
+</svg>
