@@ -20,8 +20,8 @@
   </ul>
 </div>
 
-<div align="center" style="width: 100%; min-width: 250px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; border-radius: 10px; width: 100%;" />
+<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="500px" style="width: 500px; height:250px ;display: block; border-radius: 10px;" />
 </div>
 
 <br clear="all" />
