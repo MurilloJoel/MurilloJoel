@@ -1,0 +1,51 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .rack { fill: #2D2D3A; stroke: #6A4DFF; stroke-width: 2; }
+      .led { animation: blink 1.5s infinite; }
+      .led-purple { fill: #6A4DFF; }
+      .led-pink { fill: #FF4D7A; animation-delay: 0.5s; }
+      .line { stroke: #6A4DFF; stroke-width: 1; opacity: 0.3; stroke-dasharray: 4 4; animation: flow 3s linear infinite; }
+      
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+      @keyframes flow {
+        from { stroke-dashoffset: 20; }
+        to { stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Server Racks -->
+  <rect x="50" y="50" width="80" height="200" rx="4" class="rack" />
+  <rect x="160" y="50" width="80" height="200" rx="4" class="rack" />
+  <rect x="270" y="50" width="80" height="200" rx="4" class="rack" />
+
+  <!-- LEDs Rack 1 -->
+  <circle cx="70" cy="70" r="3" class="led led-purple" />
+  <circle cx="70" cy="90" r="3" class="led led-pink" />
+  <circle cx="70" cy="110" r="3" class="led led-purple" />
+  <rect x="85" y="68" width="30" height="4" fill="#6A4DFF" opacity="0.5" />
+  <rect x="85" y="88" width="30" height="4" fill="#6A4DFF" opacity="0.3" />
+
+  <!-- LEDs Rack 2 -->
+  <circle cx="180" cy="70" r="3" class="led led-purple" />
+  <circle cx="180" cy="90" r="3" class="led led-pink" />
+  <circle cx="180" cy="110" r="3" class="led led-purple" />
+  <rect x="195" y="68" width="30" height="4" fill="#6A4DFF" opacity="0.5" />
+  
+  <!-- LEDs Rack 3 -->
+  <circle cx="290" cy="70" r="3" class="led led-purple" />
+  <circle cx="290" cy="90" r="3" class="led led-pink" />
+  <circle cx="290" cy="110" r="3" class="led led-purple" />
+
+  <!-- Data Flow Lines -->
+  <path d="M130 100 H160" class="line" />
+  <path d="M240 150 H270" class="line" />
+  <path d="M130 200 Q200 230 270 200" class="line" fill="none" />
+  
+  <!-- Content text (subtle) -->
+  <text x="50%" y="280" font-family="monospace" font-size="12" fill="#6A4DFF" text-anchor="middle" opacity="0.8">BACKEND OPS :: REFINED</text>
+</svg>
