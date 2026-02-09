@@ -20,7 +20,7 @@
   </ul>
 </div>
 
-<div style="float: right; width: 35%; min-width: 280px; text-align: right;">
+<div align="center" style="width: 100%; min-width: 250px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; border-radius: 10px; width: 100%;" />
 </div>
 
@@ -28,7 +28,7 @@
 
 <h3 style="color: #6A4DFF">🧠 Technical Philosophy</h3>
 
-<div style="float: left; width: 60%; min-width: 320px;">
+<div style="float: left; width: 60%; min-width: 400px;">
   <p>
     Beyond core programming, I focus on <b style="color: #6A4DFF">how</b> software is built. For me, architecture and scalability aren't choices; they are requirements.
   </p>
