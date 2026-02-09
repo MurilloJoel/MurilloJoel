@@ -1,19 +1,47 @@
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A4DFF,100:FF4D7A&height=250&section=header&text=Joel%20Murillo%20Masa&fontSize=80&animation=fadeIn&fontColor=ffffff" />
+  <img src="./header.svg" width="100%" />
 </p>
-
-<p align="center">
-  <strong>Multi-platform Application Developer | Full-Stack Developer</strong>
-</p>
-
-<p align="center">
-  <em>Dedicated to building scalable applications and crafting seamless user experiences with modern technologies.</em>
-</p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MurilloJoel&color=6A4DFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
+<!-- Intro & Profile Image -->
+<h3 style="color: #6A4DFF">👋 About Me</h3>
+
+<div style="float: left; width: 60%; min-width: 320px;">
+  <ul style="margin-top: 20px;">
+    <li>🚀 <b style="color: #6A4DFF">Developer</b> dedicated to building multi-platform & scalable applications.</li>
+    <li>📈 <b style="color: #6A4DFF">Continuous Growth</b>: 1% better every day through new challenges.</li>
+    <li>⚡ Driven by <b style="color: #6A4DFF">efficiency</b> and creating <b style="color: #6A4DFF">product impact</b>.</li>
+    <li>💡 Solving problems with <b style="color: #6A4DFF">innovative solutions</b> & modern tech.</li>
+    <li>💜 <b style="color: #6A4DFF">Clean Code</b>, <b style="color: #6A4DFF">User Experience</b>, & <i>Purple Aesthetics</i>.</li>
+  </ul>
+</div>
+
+<div style="float: right; width: 35%; min-width: 280px; text-align: right;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; border-radius: 10px; width: 100%;" />
+</div>
+
+<br clear="all" />
+
+<h3 style="color: #6A4DFF">🧠 Technical Philosophy</h3>
+
+<div style="float: left; width: 60%; min-width: 320px;">
+  <p>
+    Beyond core programming, I focus on <b style="color: #6A4DFF">how</b> software is built. For me, architecture and scalability aren't choices; they are requirements.
+  </p>
+  <p>
+    I design <b style="color: #6A4DFF">RESTful APIs</b> and <b style="color: #6A4DFF">Mobile Apps</b> that are intuitive and robust, ensuring high performance across all layers. My focus on <b style="color: #6A4DFF">Clean Architecture</b> ensures that my code is future-proof.
+  </p>
+</div>
+
+<div style="float: right; width: 35%; min-width: 250px; text-align: right;">
+  <img src="./backend.svg" alt="Backend Infrastructure" style="margin: 10px; border-radius: 10px; width: 100%;" />
+</div>
+
+<br clear="all" />
 
 ---
 
