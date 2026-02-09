@@ -58,22 +58,18 @@
     <td width="50%" align="center">
       <img src="https://github-readme-stats-alpha.vercel.app/api?username=MurilloJoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=MurilloJoel&theme=dark&hide_border=false" alt="Streak Stats" height="180px" />
+   <td width="50%" align="center">
+      <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=MurilloJoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px" />
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=MurilloJoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px" />
-    </td>
+    <p align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurilloJoel&theme=github-dark&hide_border=true" />
+    </p>
   </tr>
 </table>
 
 <hr>
-<h3 align="center">🔝 Top Contributions</h3>
-<p align="center">
-  <img src="https://metrics.lecoq.io/MurilloJoel?template=classic&base=repositories&base.indepth=true&repositories.batch=100&config.timezone=Europe%2FMadrid&theme=dark" alt="Top Contributions" width="100%" />
-</p>
 
 
 
