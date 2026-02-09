@@ -62,10 +62,8 @@
       <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=MurilloJoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px" />
     </td>
   </tr>
-  <tr>
-    <td align="center">
+  <tr align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurilloJoel&theme=github-dark&hide_border=true" />
-    </td>
   </tr>
 </table>
 
