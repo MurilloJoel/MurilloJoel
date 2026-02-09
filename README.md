@@ -53,18 +53,18 @@
 
 <h3 align="center">📊 GitHub Statistics</h3>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-alpha.vercel.app/api?username=MurilloJoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+      <img src="https://github-readme-stats-alpha.vercel.app/api?username=MurilloJoel&theme=dark&title_color=6A4DFF&icon_color=6A4DFF&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="250px" />
     </td>
    <td width="50%" align="center">
-      <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=MurilloJoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px" />
+      <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=MurilloJoel&theme=dark&title_color=6A4DFF&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="250px" />
     </td>
   </tr>
   <tr>
-    <td width="100%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurilloJoel&theme=github-dark&hide_border=true" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurilloJoel&theme=github-dark&hide_border=true&line=6A4DFF&point=6A4DFF&color=6A4DFF&title_color=6A4DFF" width="100%" />
     </td>
   </tr>
 </table>
