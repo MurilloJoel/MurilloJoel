@@ -12,6 +12,7 @@
 
 <div style="float: left; width: 60%; min-width: 320px;">
   <ul style="margin-top: 20px;">
+    <li>🚀 <b style="color: #6A4DFF">Founder</b> in the making, building a startup in Madrid.</li>
     <li>🚀 <b style="color: #6A4DFF">Developer</b> dedicated to building multi-platform & scalable applications.</li>
     <li>📈 <b style="color: #6A4DFF">Continuous Growth</b>: 1% better every day through new challenges.</li>
     <li>⚡ Driven by <b style="color: #6A4DFF">efficiency</b> and creating <b style="color: #6A4DFF">product impact</b>.</li>
